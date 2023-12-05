@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alertdialog</string>
+    <string-array name="colors_array">
+        <item> Red </item>
+        <item> blue </item>
+        <item> orange </item>
+        <item> Green </item>
+        <item> pink </item>
+        <item> violet </item>
+    </string-array>
+</resources>
