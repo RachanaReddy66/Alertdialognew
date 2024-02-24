@@ -15,6 +15,7 @@ public class AlertFragment extends DialogFragment {
     @NonNull
     @Override
     public Dialog onCreateDialog(@Nullable Bundle savedInstanceState) {
+        System.out.println("onCreateDialog");
         AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
         /*builder.setIcon(R.drawable.ic_action_name);
         builder.setTitle("Erase Photos");
